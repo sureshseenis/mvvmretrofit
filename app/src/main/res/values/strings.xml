@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kaspon_App</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="email">Email</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="alternate_mobile_number">Alternate mobile number</string>
+    <string name="model_number">Model Number</string>
+    <string name="serial_number">Serial Number</string>
+    <string name="contract_duration">Contract Duration</string>
+    <string name="plot_number">Plot number</string>
+    <string name="street">Street</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="location">Location</string>
+    <string name="lanmark">Landmark</string>
+</resources>
